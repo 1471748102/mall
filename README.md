@@ -173,7 +173,7 @@ mall
 - 本项目使用Docker Compose请参考： [mall在Linux环境下的部署（基于Docker Compose）](https://github.com/macrozheng/mall-learning/blob/master/docs/deploy/mall_deploy_docker_compose.md);
 - 本项目在Linux下的自动化部署请参考：[mall在Linux环境下的自动化部署（基于Jenkins）](https://github.com/macrozheng/mall-learning/blob/master/docs/deploy/mall_deploy_jenkins.md)。
 
-## 公众号
+## 公众号 
 
 mall项目全套学习教程连载中，**关注公众号**第一时间获取。
 
